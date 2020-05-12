@@ -9,7 +9,7 @@ This is based on [learnForge tutorial](https://github.com/Autodesk-Forge/learn.f
 2. Start to run the sample by
     node start.js
 3. Open the browser: [http://localhost:3000](http://localhost:3000).
-4. In one bucket, upload two versions of one model. Two demo models are available at [test models folder](/test models)
+4. In one bucket, upload two versions of one model. Two demo models are available at [testmodels](/test models) folder.
 5. After the models are uploaded, single click them one by one, a message on  the right panel will shown up: click **Start Translation**
 6. Keep single clicking the models node until the translation is done. 
 7. Single click one model. Forge Viewer will load it.
