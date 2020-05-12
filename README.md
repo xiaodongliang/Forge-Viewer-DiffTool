@@ -11,7 +11,7 @@ This is based on [learnForge tutorial](https://github.com/Autodesk-Forge/learn.f
 3. Open the browser: [http://localhost:3000](http://localhost:3000).
 4. In one bucket, upload two versions of one model. Two demo models are available at [test models folder](test models)
 5. After the models are uploaded, single click them one by one, a message on  the right panel will shown up: click **Start Translation**
-6. Keep single clicking the  models node until the translation is done. 
+6. Keep single clicking the models node until the translation is done. 
 7. Single click one model. Forge Viewer will load it.
 8. Tick another model, click **Append Models**. Forge Viewer will append another model
 9. Click **Diff Tool**, the DiffTool extension will be loaded. The menus of this extension will be also shown up. Please check [this blog](https://forge.autodesk.com/blog/difference-3d-models-autodeskdifftool-extension) for more details. The sample of DiffTool options hard-coded the primary model, diff model and version number. Change them with your requirement. 
